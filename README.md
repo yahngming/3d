@@ -1,2 +1,1 @@
-# 3d
-3D modeling
+# 3D modeling
